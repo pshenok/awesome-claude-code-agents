@@ -44,18 +44,6 @@ Claude will also auto-delegate when a task matches the agent's description.
 |-------|-------|-------------|
 | [nest-architect](agents/nest-architect.md) | NestJS, Prisma, Pino | Clean Architecture enforcer. Knows layers, patterns, entity scaffolding. Includes log4js→Pino migration guide. |
 
-### Coming Soon
-
-- **express-architect** — Express.js + TypeORM patterns
-- **fastify-architect** — Fastify + Drizzle ORM
-- **security-reviewer** — OWASP-aware code auditor
-- **test-writer** — Jest/Vitest test generator with edge cases
-- **pr-reviewer** — Pull request review with severity ratings
-- **db-migration-planner** — Safe database migration strategies
-- **api-designer** — REST/GraphQL API design reviewer
-- **docker-ops** — Dockerfile & docker-compose best practices
-- **ci-cd-architect** — GitHub Actions / GitLab CI pipeline design
-
 ## Agent Anatomy
 
 Every agent is a single Markdown file with YAML frontmatter:
