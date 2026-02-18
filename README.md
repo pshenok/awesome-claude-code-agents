@@ -42,7 +42,7 @@ Claude will also auto-delegate when a task matches the agent's description.
 
 | Agent | Stack | Description |
 |-------|-------|-------------|
-| [nest-architect](agents/nest-architect.md) | NestJS, Prisma, Pino | Clean Architecture enforcer. Knows layers, patterns, entity scaffolding. Includes log4js→Pino migration guide. |
+| [nest-architect](agents/nest-architect.md) | NestJS, Prisma, Pino | Clean Architecture enforcer. Knows layers, patterns, entity scaffolding. |
 
 ## Agent Anatomy
 
